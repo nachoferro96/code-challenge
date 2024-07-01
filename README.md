@@ -1,26 +1,6 @@
+Since I'm not a backend developer, David told me to follow the front-end instructions, so I did. i felt free to use a free Api with random users name that is called when the page loads. That name is stored in a Redux store that i set up. I made an input field that allows the user to change the name stored on the redux store and it's rendered. Also i set a default user avatar pic that we can change using a pic of our pc.
 
-# Blue Rabbit Code Challenge
-
-Fork this repo and create a Full Stack app using languages and frameworks of your choice that 
-*literally* introduces you to us. Submit your response back to us here in the form of a pull 
-request or submit it to us privately. Please don't spend more than a couple hours on it. It's ok
-if you don't finish, just tackle the requirements in order and take it as far as you can in the time frame.
-
-Include A README with instructions on how to build/run the app. Use the README to let us know
-why you chose the technologies you did. Notes on design patterns, challenges, or aspects
-of your stack that you find interesting are also appreciated!
-
-### Requirements
-1. Create an API with an endpoint or operation that we can call that tells us your name. The shape of the data 
-and the storage mechanism are up to you. It's ok if it takes no params and returns only your name.
-2. Create a minimal frontend that calls your api and displays your name when we run it.
-3. Add an API endpoint or operation that takes a name and stores it.
-4. Add an input to the frontend that we can use to submit a name to the endpoint or operation you just created.  
-5. Add an input to the frontend that lets us upload an image avatar and submit it to your API.
-
-
-
-
+this is pure Reac, so if you clone this you can run with node as "npm start" 
 
 
 
